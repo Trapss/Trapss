@@ -5,4 +5,6 @@
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Trapss&style=flat-square" alt="Trapss" />
-
+![java](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java&logoColor=white)
+![javascript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
