@@ -4,9 +4,10 @@
 
 <br>
 <br>
-Experience with   
-- html, css
-- javascript, typescript
-- java, kotlin
-- c++, (some) c
-- php, mysql
+Experience with  
+- html, css  
+- javascript, typescript  
+- java, kotlin  
+- c++, (some) c  
+- php, mysql  
+
