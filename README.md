@@ -1,7 +1,10 @@
+<a href="https://github.com/trapss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trapss&repo=github-readme-stats" />
+</a>
+<a href="https://trapss.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trapss&repo=convoychat" />
+</a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trapss&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-[![Trapss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trapss&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
 <br>
 <br>
 Experience with  
