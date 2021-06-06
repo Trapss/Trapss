@@ -8,5 +8,5 @@ Experience with
 - html, css
 - javascript, typescript
 - java, kotlin
-- c++, (little) c
+- c++, (some) c
 - php, mysql
