@@ -5,5 +5,5 @@
 <br>
 <br>
 Experience with  
-- css, js, html, php
+- css, js, ts, html, php
 - c++, java, kotlin
