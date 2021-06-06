@@ -10,4 +10,3 @@ Experience with
 - java, kotlin  
 - c++, (some) c  
 - php, mysql  
-
